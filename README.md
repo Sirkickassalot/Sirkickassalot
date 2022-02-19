@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Sirkickassalot
-- 👀 I’m interested in Brazilian Jiu-Jitsu, Heavy Music, Sacred Geometry and Web Development
+- 👋 Hey, I’m @Sirkickassalot
+- 👀 I’m a purple belt in Brazilian Jiu-Jitsu, I love Heavy Music, i am very intrigued by Sacred Geometry and Web Development.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on Mobile App development.
 - 📫 How to reach me idelacruz59@gmail.com            
